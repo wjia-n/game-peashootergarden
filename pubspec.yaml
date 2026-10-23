@@ -1,7 +1,7 @@
 name: peashootergarden
 description: "Pea Shooter Garden - Shoot peas at garden bugs"
 publish_to: 'none'
-version: 1.0.0+3
+version: 1.0.0+4
 environment:
   sdk: ^3.13.5
 
